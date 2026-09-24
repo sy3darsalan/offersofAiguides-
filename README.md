@@ -87,3 +87,10 @@ Contributions are welcome. If you find a new AI free trial, discount, promo code
 ## Verification
 
 Offer information is verified using official websites and includes a verification date where available.
+## 🔗 Official Links
+
+- [GitHub Copilot](https://github.com/features/copilot/plans)
+- [Jasper](https://www.jasper.ai/pricing)
+- [Canva](https://www.canva.com/pricing/)
+- [ElevenLabs](https://elevenlabs.io/pricing)
+- [Perplexity](https://www.perplexity.ai/)
