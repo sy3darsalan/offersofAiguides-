@@ -73,3 +73,17 @@ If you find this repository useful, consider giving it a ⭐ star on GitHub.
 ---
 
 **Offers of AI Guides — Discover AI. Save Money.**
+
+## Maintenance
+
+This repository is actively maintained and updated with verified AI offers.
+
+Offers are checked against official sources before being added or updated.
+
+## Contributing
+
+Contributions are welcome. If you find a new AI free trial, discount, promo code, or deal, please open an issue or pull request with the official source.
+
+## Verification
+
+Offer information is verified using official websites and includes a verification date where available.
